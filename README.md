@@ -18,14 +18,7 @@ The game has been unplayed for years, so I would like to share the source code a
 
 The source code is available under the MIT license; therefore, assets used in this project that do not adhere to the license were removed.
 
-To compile this project, you will need:
-Unity 2018.4.12f1
-
-And you will need to import the following assets into your project from the Unity Asset Store (or fix the missing references for yourself):
-
-Fingers - Touch Gestures Lite
-
-Standalone File Browser
+To compile this project, you will need Unity 2018.4.12f1. If you want to restore the file browser functionality, you will need to import and implement the Standalone File Browser asset from the Unity Asset Store.
 
 Screenshots:
 
