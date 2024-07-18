@@ -1,4 +1,4 @@
-![Cover Image](https://github.com/user-attachments/assets/41d6aa97-d500-46cb-92f9-a95313697fec)
+![Cover Image](https://github.com/user-attachments/assets/c6960f1b-eb19-496a-a44f-a0c95833350a)
 
 This is the source code for Pica-Link, a cross-platform puzzle game made to work on Android, iOS, WebGL, and Standalone PC devices.
 
@@ -28,6 +28,7 @@ Fingers - Touch Gestures Lite
 Standalone File Browser
 
 Screenshots:
-![screen2](https://github.com/user-attachments/assets/32110408-a281-473d-92c3-0c0bc421127e)
-![screen3](https://github.com/user-attachments/assets/87d6bc91-72f6-4fcb-9c85-d99fa949f9ba)
-![screen1](https://github.com/user-attachments/assets/afcd961e-1f3e-4e86-87cc-7951a67b427e)
+
+![screen2](https://github.com/user-attachments/assets/6547b050-fa1b-47be-a860-7471cc439104)
+![screen3](https://github.com/user-attachments/assets/33a4361b-83fd-49b6-8dfb-14cf7a37fbea)
+![screen1](https://github.com/user-attachments/assets/ca08a7a7-df98-45c6-81fa-9425a9f42aac)
